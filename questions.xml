@@ -1,0 +1,680 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--Questions-->
+
+
+
+<Questionnaire>
+
+<question category="easy">
+    <question_title>which is the best known prehistoric animal?</question_title>
+    <answer> Dinosaurs </answer>
+    <noanswer> crocodile </noanswer>
+    <noanswer>dog</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title>which pair of superheroes are knows as the ‘Dynamic Duo’</question_title>
+    <answer> Batman and Robin </answer>
+    <noanswer> Booster Gold & Blue Beetle </noanswer>
+    <noanswer> Captain America & Falcon </noanswer>
+  </question>
+
+<question category="easy">
+    <question_title><Darth Vader is the main villain in which series?></question_title>
+    <answer>star wars</answer>
+    <noanswer>startrek</noanswer>
+    <noanswer>twilight</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title>What colour is the circle on the Japanese flag?</question_title>
+    <answer>Red</answer>
+    <noanswer>Green</noanswer>
+    <noanswer>Blue</noanswer>
+  </question>
+
+  <question category="easy">
+  <question_title>Mont Blanc is the highest mountain in which European mountain range?
+</question_title>
+    <answer>The Alps</answer>
+    <noanswer>The Andes</noanswer>
+    <noanswer>Himalayas</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title> How many days are there in February in a leap year?</question_title>
+    <answer>29</answer>
+    <noanswer>28</noanswer>
+    <noanswer>30</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title> Which dance move, in which the dancer moves backwards, was made popular by Michael Jackson?</question_title>
+    < answer>Moonwalk</answer>
+    < noanswer >The running man</noanswer>
+    <noanswer>The SpongeBob</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title> How many teeth does an adult have?</question_title>
+    <answer>32</answer>
+    <noanswer>30</noanswer>
+    <noanswer>28</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title> Hollywood is a suburb of which American city?</question_title>
+<answer>Los angeles</answer>
+    <noanswer>Oxford</noanswer>
+    <noanswer>New York</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title> What is the tallest animal in the world?</question_title>
+    <answer>Giraffe</answer>
+    <noanswer>Dinosours</noanswer>
+    <noanswer>Horse</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title>Who wrote the book 'Romeo and Juliet'?</question_title>
+<answer>William Shakespeare</answer>
+    <noanswer>William Faulkner</noanswer>
+    <noanswer>Herman Melville</noanswer>
+  </question>
+
+<question category="easy">
+    <question_title>Which famous ship sank on its first voyage in 1912?</question_title>
+<answer>The titanic</answer>
+    <noanswer>Star princess</noanswer>
+    <noanswer>Costa Concordia</noanswer>
+  </question>
+
+
+<question category="easy">
+    <question_title>How many seconds are there in a minute and a half?</question_title>
+<answer>90 seconds</answer>
+    <noanswer>60 seconds</noanswer>
+    <noanswer>80 seconds</noanswer>
+  </question>
+
+
+<question category="easy">
+    <question_title> Which liquid food, mostly served warm, can often have tomato or minestrone varities?</question_title>
+<answer>Soup</answer>
+    <noanswer>Spaghetti</noanswer>
+    <noanswer>Souvlakia</noanswer>
+  </question>
+
+
+<question category="easy">
+    <question_title>How many months of the year have 30 days?</question_title>
+<answer>4</answer>
+    <noanswer>5</noanswer>
+    <noanswer>6</noanswer>
+  </question>
+
+
+<question category="easy">
+    <question_title>How many years are there in a millennium?</question_title>
+<answer>1000</answer>
+    <noanswer>100</noanswer>
+    <noanswer>2000</noanswer>
+  </question>
+
+
+
+
+<question category="easy">
+    <question_title>Name the school that Harry Potter attended?</question_title>
+<answer>Hogwarts</answer>
+    <noanswer>New Yorg University</noanswer>
+    <noanswer>UCLA</noanswer>
+  </question>
+
+
+   <question category="easy"> 
+<question_title>What is the nickname for the bell of the clock at the Palace of Westminster in London?</question_title>
+<answer>Big Ben</answer>
+    <noanswer>Tower Eiffel</noanswer>
+    <noanswer>Tower of London</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>What colour are Smurfs?</question_title>
+<answer>Blue</answer>
+    <noanswer>Pink</noanswer>
+    <noanswer>Yellow</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>What is the top colour in a rainbow?</question_title>
+<answer>Red</answer>
+    <noanswer>White</noanswer>
+    <noanswer>Purple</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>What is the last name of the cartoon characters Marge, Bart, and Homer?</question_title>
+<answer>Simpson</answer>
+    <noanswer>Gilbert</noanswer>
+    <noanswer>Astin</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>What is the first element on the periodic table?</question_title>
+<answer>Hydrogen</answer>
+    <noanswer>Carbon</noanswer>
+    <noanswer>Magnesium</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>What was the first name of Jesus' mother?</question_title>
+<answer>Mary</answer>
+    <noanswer>Rafaella</noanswer>
+    <noanswer>Jane</noanswer>
+  </question>
+
+
+
+
+   <question category="easy"> 
+<question_title>How many stars has the American flag got?</question_title>
+<answer>Fifty</answer>
+    <noanswer>Forty</noanswer>
+    <noanswer>Five</noanswer>
+  </question>
+
+
+
+   <question category="easy"> 
+<question_title>what colour to do you get when you mix red and white?</question_title>
+<answer>Pink</answer>
+    <noanswer>Blue</noanswer>
+    <noanswer>Green</noanswer>
+  </question>
+
+
+
+
+
+
+
+<question category="medium">
+ <question_title>After paris, which is the worl’s largest primarily French-speaking city?</question_title>
+    <answer>Montreal</answer>
+    <noanswer>Canada</noanswer>
+    <noanswer>Belgium</noanswer>
+  </question>
+
+<question category="medium">
+    <question_title>Which blood group does one have to accept the blood of any of the four groups?</question_title>
+    <answer>AB</answer>
+    <noanswer>+B</noanswer>
+    <noanswer>+O</noanswer>
+  </question>
+
+<question category="medium">
+    <question_title>What is the most common name in the Bible--shared by 32 people in the Old Testament and one in the New Testament?</question_title>
+    <answer>Zechariah</answer>
+    <noanswer>Jesus</noanswer>
+    <noanswer>Seraphim</noanswer>
+  </question>
+
+<question category="medium">
+    <question_title>In what language was the New Testament originally written?</question_title>
+    <answer>In Greek</answer>
+    <noanswer>In Egyptian</noanswer>
+    <noanswer>In English</noanswer>
+  </question>
+
+<question category="medium">
+    <question_title>According to the Bible, on what day did God divide land and water?</question_title>
+    <answer>Third day</answer>
+    <noanswer>Second day</noanswer>
+    <noanswer>Fifth day</noanswer>
+  </question>
+
+<question category="medium">
+    <question_title>Which classic band recorded the following songs: "I Want To Hold Your Hand", "Yesterday", "Hey Jude" and "Let It Be"?</question_title>
+    <answer>The Beatles</answer>
+    <noanswer>The Rolling Stones</noanswer>
+    <noanswer>Metallica</noanswer>
+  </question>
+
+
+<question category="medium">
+    <question_title>Which subject did Walter teach in Breaking Bad serie?</question_title>
+    <answer>Chemistry</answer>
+    <noanswer>Physics</noanswer>
+    <noanswer>Mathematics</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>In 1610, who became the first person to observe Saturn’s rings through a telescope?</question_title>
+    <answer>Galileo Galilei</answer>
+    <noanswer>Albert Einstein</noanswer>
+    <noanswer>Michael Faraday</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>Which planet in our solar system is known as ‘The Blue Planet’?</question_title>
+    <answer>Earth</answer>
+    <noanswer>Mars</noanswer>
+    <noanswer>Uranus</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>Which planet in our solar system lies between Earth and Mercury?</question_title>
+    <answer>Venus</answer>
+    <noanswer>Earth</noanswer>
+    <noanswer>Neptune</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>Who shared world amateur baseball championship with USA in1973?</question_title>
+    <answer>Cuba</answer>
+    <noanswer>Hawaii</noanswer>
+    <noanswer>New York</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What are female elephants called?</question_title>
+    <answer>Cows</answer>
+    <noanswer>Belted  Galloway</noanswer>
+    <noanswer>Dexter cattle</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What is the largest type of ‘big cat’ in the world?
+</question_title>
+    <answer>Tiger</answer>
+    <noanswer>Leon</noanswer>
+    <noanswer>Mongoose</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What type of animal is the largest primate in the world?</question_title>
+    <answer>The gorilla</answer>
+    <noanswer>The elephant</noanswer>
+    <noanswer>The bear</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What is the name of Bruce Springsteen's primary backing band?</question_title>
+    <answer>E street band</answer>
+    <noanswer>C street band</noanswer>
+    <noanswer>A street band</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What was Elvis Presley's middle name?</question_title>
+    <answer>Aaron</answer>
+    <noanswer>Adam</noanswer>
+    <noanswer>Moses</noanswer>
+  </question>
+
+
+<question category="medium">
+    <question_title>What is the Capital city of Switzerland?</question_title>
+    <answer>Bern</answer>
+    <noanswer>Geneva</noanswer>
+    <noanswer>Zurich</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title> Who said, "The hardest thing to understand in the world is income tax?"</question_title>
+    <answer>Albert Einstein</answer>
+    <noanswer>Aristotle</noanswer>
+    <noanswer>Nikola Tesla</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>In which city was the pinball machine invented?</question_title>
+    <answer>Chicago</answer>
+    <noanswer>San fransisco</noanswer>
+    <noanswer>Los angeles</noanswer>
+  </question>
+
+
+
+
+<question category="medium">
+    <question_title>What is the name of the largest ocean on earth?</question_title>
+    <answer>the Pacific Ocean</answer>
+    <noanswer>Atlantic Ocean</noanswer>
+    <noanswer>Indian Ocean</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>What is the name of the Indian holy river?</question_title>
+    <answer>Granges</answer>
+    <noanswer>Brahmaputra</noanswer>
+    <noanswer>Indus</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>Which animal is on the golden Flemish flag?</question_title>
+    <answer>Lion</answer>
+    <noanswer>Tiger</noanswer>
+    <noanswer>Cat</noanswer>
+  </question>
+
+
+
+<question category="medium">
+    <question_title>From which country does pitta bread originate?</question_title>
+    <answer>Greece</answer>
+    <noanswer>Israil</noanswer>
+    <noanswer>Cyprus</noanswer>
+  </question>
+
+
+
+
+
+<question category="medium">
+    <question_title>What is the well Known drink from Greece?</question_title>
+    <answer>Ouzo</answer>
+    <noanswer>Wine</noanswer>
+    <noanswer>Rumi</noanswer>
+  </question>
+
+
+
+
+<question category="medium">
+    <question_title>What is the most famous beer in Ireland?</question_title>
+    <answer>Guiness</answer>
+    <noanswer>Murphy’s Irish red</noanswer>
+    <noanswer>Harp</noanswer>
+  </question>
+
+
+
+<question category="hard">
+
+<question_title>How much urine accumulates in the bladder of a normal person per minute?</question_title>
+        <answer>1 ml or more</answer>
+  <noanswer>2 ml or more</noanswer>
+       <noanswer>3 litres</noanswer>
+     </question>
+
+<question category="hard">
+<question_title>In which country did gold originate?</question_title>
+<answer>Scotland</answer>
+ <noanswer>England</noanswer>
+            <noanswer>Cyprus</noanswer>
+     </question>
+
+
+
+<question category="hard">
+<question_title> What is BOD?</question_title>
+<answer>Biochemical Oxygen Demand</answer>
+ <noanswer>Biological oxygen demand</noanswer>
+  <noanswer>Biochemical oxygen decarbonize</noanswer>
+     </question>
+
+
+    <question category="hard">
+
+ <question_title> Who is the father of the atomic bomb?</question_title>
+<answer>Robert Oppenheimer</answer>
+<noanswer>Edward Teller</noanswer>
+ <noanswer>Enrico Fermi</noanswer>
+     </question>
+
+
+
+     <question category="hard">
+
+<question_title> Who discovered one of the first antibiotics, penicillin?</question_title>
+<answer>Alexander Fleming</answer>
+<noanswer>Steve Groshong</noanswer>
+ <noanswer>Laurie Carr</noanswer>
+     </question>
+
+<question category="hard">
+
+<question_title> Which country is the largest producer of olive oil? </question_title>
+<answer>Spain</answer>
+<noanswer>America</noanswer>
+ <noanswer>Africa</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> What is the main component in glass? </question_title>
+<answer>Sand</answer>
+<noanswer>Clay</noanswer>
+ <noanswer>Soil</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> How many digits does an IBAN number consist of? </question_title>
+<answer>Fourteen digits</answer>
+<noanswer>Fifteen digits</noanswer>
+ <noanswer>Twenty digits</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> What is pakistan’s currency? </question_title>
+<answer> Ruppee</answer>
+<noanswer> Lira</noanswer>
+ <noanswer>Euro</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> Who is the inventor of photography?</question_title>
+<answer>Dagnerre</answer>
+<noanswer>Robert Frank</noanswer>
+ <noanswer>Annie Leibovitz</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> Who did the Mona Lisa paint?</question_title>
+<answer>Leonardo Da Vinci</answer>
+<noanswer>Edward hopper</noanswer>
+ <noanswer>Jackson Pollock</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> In which city did Romeo and Juliet live? </question_title>
+<answer>Verona</answer>
+<noanswer>Bologna</noanswer>
+ <noanswer>Rome</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> How many Oscars did the Titanic movie got?</question_title>
+<answer>Eleven</answer>
+<noanswer>Twenty</noanswer>
+ <noanswer>Fifty</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title> According to the Bible. Who was the first murderer? </question_title>
+<answer>Cain</answer>
+<noanswer>Mario</noanswer>
+ <noanswer>Edward</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> In what year did princess Diana die? </question_title>
+<answer>1997</answer>
+<noanswer>1996</noanswer>
+ <noanswer>2001</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title> In which decade was the American Institute of Electrical Engineers founded?</question_title>
+<answer>1880s</answer>
+<noanswer>1850s</noanswer>
+ <noanswer>1950s</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title>What is part of database that holds only one type of information?</question_title>
+<answer>Field</answer>
+<noanswer>Report</noanswer>
+ <noanswer>Record</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title>Which is a type of Electrically-Erasable Programmable Read-Only Memory?</question_title>
+<answer>Flash</answer>
+<noanswer>Flange</noanswer>
+ <noanswer>Fram</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title>Changing computer language of 1’s and o’s to characters that a person can understand is?</question_title>
+<answer>Decode</answer>
+<noanswer>Clip art</noanswer>
+ <noanswer>Execute</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title>How many bits is a byte?</question_title>
+<answer>8</answer>
+<noanswer>4</noanswer>
+ <noanswer>32</noanswer>
+     </question>
+
+
+
+<question category="hard">
+
+<question_title>In which decade was the transistor invented?</question_title>
+<answer>1940s</answer>
+<noanswer>1950s</noanswer>
+ <noanswer>1980s</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title>Who is father of Geometry?</question_title>
+<answer>Euclid</answer>
+<noanswer>Aristotle</noanswer>
+ <noanswer>Kepler</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title>The temperature increases rapidly after?</question_title>
+<answer>Ionosphere</answer>
+<noanswer>Exosphere</noanswer>
+ <noanswer>Troposphere</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title>Who is the author of the Lord of the Rings?</question_title>
+<answer>J. R. R. Tolkien</answer>
+<noanswer>JK Rowling</noanswer>
+<noanswer>Roald Dahl</noanswer>
+     </question>
+
+
+
+
+<question category="hard">
+
+<question_title>Who is the main character in the Lord of the rings?</question_title>
+<answer>Frodo</answer>
+<noanswer>Bilbo</noanswer>
+<noanswer>Samwise</noanswer>
+     </question>
+
+
+
+</Questionnaire> 

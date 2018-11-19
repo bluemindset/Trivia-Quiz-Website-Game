@@ -1,0 +1,4 @@
+stefanos:5
+Kostantinos:10
+Girgos:25
+Giannis:1
