@@ -15,12 +15,12 @@
 <question category="easy">
     <question_title>which pair of superheroes are knows as the ‘Dynamic Duo’</question_title>
     <answer> Batman and Robin </answer>
-    <noanswer> Booster Gold & Blue Beetle </noanswer>
-    <noanswer> Captain America & Falcon </noanswer>
+    <noanswer> Booster Gold and Blue Beetle </noanswer>
+    <noanswer> Captain America and Falcon </noanswer>
   </question>
 
 <question category="easy">
-    <question_title><Darth Vader is the main villain in which series?></question_title>
+    <question_title>Darth Vader is the main villain in which series?</question_title>
     <answer>star wars</answer>
     <noanswer>startrek</noanswer>
     <noanswer>twilight</noanswer>
@@ -34,8 +34,7 @@
   </question>
 
   <question category="easy">
-  <question_title>Mont Blanc is the highest mountain in which European mountain range?
-</question_title>
+  <question_title>Mont Blanc is the highest mountain in which European mountain range?</question_title>
     <answer>The Alps</answer>
     <noanswer>The Andes</noanswer>
     <noanswer>Himalayas</noanswer>
@@ -50,8 +49,8 @@
 
 <question category="easy">
     <question_title> Which dance move, in which the dancer moves backwards, was made popular by Michael Jackson?</question_title>
-    < answer>Moonwalk</answer>
-    < noanswer >The running man</noanswer>
+    <answer>Moonwalk</answer>
+    <noanswer >The running man</noanswer>
     <noanswer>The SpongeBob</noanswer>
   </question>
 
