@@ -41,7 +41,7 @@ function is_correct($s1,$s2){
     $max = 4;
     $difficulty =2;
     $numbers = array();
-    $numbers = range(0, 4);
+    $numbers = range(0, 23);
     shuffle($numbers);
     $random_nums = array_slice($numbers, 0, 5);
     $_SESSION["time"] = 0;
