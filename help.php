@@ -1,47 +1,4 @@
-<?php
-session_start();
-function gather_player(){
-    $names= array();
-    $damp_scores = array();
-    $names_s= array();
-    $scores= array();
-    $size =0;
-    $fp = fopen("players.txt", "r") or die("Unable to open file!");
-    while ($line = stream_get_line($fp, 1024 * 1024, "\n")) {
-            $size++;
-            array_push($names,$line);
-    }
-        foreach($names as $key => $value){
-            $names_e= explode(":",$value);
-            array_push($names_s,$names_e[0]);
-            array_push($scores,$names_e[1]);
-        }
 
-        $damp_scores = $scores;
-        rsort($scores);
-        array_keys($damp_scores);
-        array_keys($names_s);
-        $orderednames = array();
-        
-        foreach($scores as $key => $sorted){
-                $where = 0;
-            foreach($damp_scores as $key => $non ){        
-                if( $sorted == $non  ){
-                    print($names_s[$where]);
-                    $orderedname = $names_s[$where]." ".$sorted;
-                    array_push($orderednames,$orderedname);
-                    array_splice($names_s, $where, 1);
-                    array_splice($damp_scores, $where, 1);
-                    print_r($names_s);
-                    break;
-                }
-                $where++;
-            }
-        }
-    $_SESSION["order"] = $orderednames;
-   // print_r($orderednames);
-}
-?>
 <html lang="en">
   <head>
     <!--Metadata - Title,author, desc,keywords,etc-->
