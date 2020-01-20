@@ -1,4 +1,6 @@
-# Stefanos Ioannou 945470  CS425 HW3
+# Stefanos Ioannou 
+## Trivia Quiz Website Game 
+### PHP, HTML, CSS - CS425
 1. Fully responsive site with Bootstrap.
 2. Footer / Meta data / 3 Pages /Icons /Bottom to Top button/Fixed Navabar Header
 3. Scores are ordered in PHP.
