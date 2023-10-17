@@ -1,4 +1,3 @@
-# Stefanos Ioannou 
 ## Trivia Quiz Website Game 
 ### PHP, HTML, CSS - CS425
 1. Fully responsive site with Bootstrap.
@@ -9,6 +8,3 @@
 6. Full report on players questions in the end.
 7. Questions are randomly choosed and also the answer is shuffled inside the page.In the xml 
 its always as the first attribute but in the page is shuffled.
-
-Can be found at:
-http://34.212.218.122/cs425_fall18_hm3/index.php
